@@ -30,7 +30,9 @@ After Automation: https://www.youtube.com/watch?v=_xXdd6Grit4&feature=youtu.be
 
 ### The User Interface (In Progress)
 
-Link to youtube video
+The following video demonstrates our current progress on implementing the graphical user interface.
+
+In Progress GUI: https://www.youtube.com/watch?v=AcMxbM_cuts&feature=youtu.be
 
 <center><img src="./demo-media/userinterface.png" style="width: 55%;"/></center>
 

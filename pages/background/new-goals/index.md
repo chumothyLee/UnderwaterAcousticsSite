@@ -41,8 +41,8 @@ Our team aims to deliver a single executable program that can be used by Dr. Sir
 Familiarize ourselves on the topic of CNNs by writing a simple report outlining our knowledge and determining proper metrics for measuring performance of the CNN we will be developing as the development process continues.
 
 #### What we will do:
-a)    Draw parallels to existing code.
-b)    Propose improvements to existing code to improve performance.
+- Draw parallels to existing code.
+- Propose improvements to existing code to improve performance.
 
 #### Justification:
 Simply writing a report of our knowledge would not necessarily be very useful.  We shifted this milestone to better support later users of the code, and are treating this report as the document we would have liked to have seen in the beginning while we had no background knowledge with neural networks.  Accordingly, we want to make the report more relevant to the existing code and help users understand it more by introducing neural networks, and drawing parallels between a classical neural network and our code.  Due to the limited time frame of the quarter, we would like to leave the project in a state that is ready for improvement by proposing possible avenues for exploration by future students and researchers.
@@ -54,6 +54,20 @@ Provide documentation on our program for future users of our program to be used 
 
 #### Justification:
 We had trouble in deciphering the methods in the files we were given by Dr. Sirovic because the previous developer of our program did not leave much documentation on what each method’s purpose was relative to the whole program. We had to research many of the methods on MATLAB’s API and had to piece together what the method’s purpose was for that particular part of the program. We want to remove that difficulty from the user’s experience when running our program.
+
+### Our Final Sprint
+
+Jeremy/Rochelle: 
+- Contribute to report on neural networks.  Completed at end of quarter.
+- Propose improvements to existing network.  Completed at end of quarter.
+- Finish evaluation of CNN performance.  Completed at end of this week.
+- Implement ability to input non-training data into CNN for classification.  Completed at end of next week.
+	
+Luis/Tiffany:
+- Contribute to report on neural networks.  Completed at end of quarter.
+- Propose improvements to existing network.  Completed at end of quarter.
+- Finalize GUI implementation for training process.  Completed at end of next week.
+- Integrate GUI with newly developed classification interface (non-training data).  Completed at end of quarter.
 
 ### Milestones for continued development
 After having discussed with Dr. Sirovic and the rest of the team, we believe it is a real possibility that we will continue contributing to the development of the Convolutional Neural Network following the end of the quarter. In this case, some milestones we have discussed include: Open sourcing and generalization of the classifier so that it can be used as a tool in a wide range of fields; Determining metrics for classifier performance and subsequently attempting to improve performance based on the determined metrics; Looking into other projects at Scripps. 
