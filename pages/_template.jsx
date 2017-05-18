@@ -90,7 +90,7 @@ module.exports = React.createClass({
                     marginTop: rhythm(-1),
                   }}
                 >
-                  Fish Calls
+                  Demo
                 </Link>
                 <Link
                   to={prefixLink('/process/')}

@@ -6,8 +6,9 @@ backPages = [
   "/background/",
   "/background/who-we-are/",
   "/background/the-project/",
-  "/background/goals/",
-  "/background/about-scripps/",
+  "/background/old-goals/",
+  "/background/new-goals/",
+  "/background/about-scripps/"
 ]
 procPages = [
 	"/process/",
@@ -16,6 +17,7 @@ procPages = [
 	"/process/week-3/",
 	"/process/week-4/",
 	"/process/week-5/",
-	"/process/week-6/"
+	"/process/week-6/",
+	"/process/week-7/"
 
 ]

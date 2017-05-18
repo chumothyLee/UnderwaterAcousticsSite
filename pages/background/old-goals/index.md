@@ -1,5 +1,5 @@
 ---
-title: "Project Goals"
+title: "Old Project Goals"
 ---
 
 ### Milestone 1: End of Week 4
@@ -26,5 +26,14 @@ Develop a Graphical Interface for the Convolutional Neural Network that will imp
 #### Justification:
 Our team aims to deliver a single executable program that can be used by Dr. Sirovic at a presentation three weeks following the end of the quarter. While the deliverable described in Milestone 2 would be sufficient, we believe a graphical interface that handles the different usage cases for the classifier would significantly improve usability while being more presentable at the aforementioned conference. 
 
+### Milestone 4: End of Quarter
+
+#### Deliverable:
+Familiarize ourselves on the topic of CNNs by writing a simple report outlining our knowledge and determining proper metrics for measuring performance of the CNN we will be developing as the development process continues.
+
+#### Justification:
+Upon entering this project, our team lacked in knowledge about Convolutional Neural Networks, so approaching this project would be challenging.  We decide to do numerous research on this topic and relate back to our project.  Additionally, we will write a simple report outlining our findings on CNNs.
+
 ### Milestones for continued development
 After having discussed with Dr. Sirovic and the rest of the team, we believe it is a real possibility that we will continue contributing to the development of the Convolutional Neural Network following the end of the quarter. In this case, some milestones we have discussed include: Open sourcing and generalization of the classifier so that it can be used as a tool in a wide range of fields; Determining metrics for classifier performance and subsequently attempting to improve performance based on the determined metrics; Looking into other projects at Scripps. 
+
