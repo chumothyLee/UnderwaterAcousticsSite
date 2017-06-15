@@ -70,4 +70,7 @@ Luis/Tiffany:
 - Integrate GUI with newly developed classification interface (non-training data).  Completed at end of quarter.
 
 ### Milestones for continued development
-After having discussed with Dr. Sirovic and the rest of the team, we believe it is a real possibility that we will continue contributing to the development of the Convolutional Neural Network following the end of the quarter. In this case, some milestones we have discussed include: Open sourcing and generalization of the classifier so that it can be used as a tool in a wide range of fields; Determining metrics for classifier performance and subsequently attempting to improve performance based on the determined metrics; Looking into other projects at Scripps. 
+After having discussed with Dr. Sirovic and the rest of the team, we believe it is a real possibility that we will continue contributing to the development of the Convolutional Neural Network following the end of the quarter. In this case, some milestones we have discussed include: 
+- Open sourcing and generalization of the classifier so that it can be used as a tool in a wide range of fields
+- Determining metrics for classifier performance and subsequently attempting to improve performance based on the determined metrics
+- Looking into other projects at Scripps. 
